@@ -1,0 +1,26 @@
+
+div {
+    background-color: rgb(229, 215, 198);
+}
+
+body {
+    background-color:rgb(243, 233, 217);
+}
+
+.test1 {
+    background-color: rgb(229, 215, 198);
+}
+
+.test2 {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.test3 {
+    text-decoration: underline;
+}
+
+.test4 {
+    text-shadow: 1px 1px 2px rgb(249, 234, 22), 0 0 1em rgba(212, 255, 0, 0.959), 0 0 0.2em rgb(4, 0, 255);
+}
+
